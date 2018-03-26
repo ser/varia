@@ -6,7 +6,7 @@ export BASH_IT="/root/.bash_it"
 # Lock and Load a custom theme file
 # location /.bash_it/themes/
 export BASH_IT_THEME='powerline'
-export POWERLINE_PROMPT="user_info clock scm in_vim python_venv cwd"
+export POWERLINE_PROMPT="hostname user_info clock scm in_vim python_venv cwd"
 export SSH_CLIENT="127.0.0.1"
 
 # Don't check mail when opening terminal.
